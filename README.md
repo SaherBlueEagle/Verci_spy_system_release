@@ -10,6 +10,13 @@
 - Personal Control and File Backup , Make sure no one is using your computer when you are away.
 - Other Noble Purposes
 
+[![Bitcoin Donate Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/Bitcoin-Donate-button.png)](https://www.facebook.com/NsBleeD/posts/)
+# Support us please 🥰  
+Bitcoin : 3LfLEoLpt3XBz7ozwSSsawWSZJruCQSQgx
+
+[![Patreaon Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/patreon_button2.png)](https://www.patreon.com/BlueEagle)
+# Support us please 🥰 for more & more  
+
 This is a release for who cannot Debug or Build the Source , And this is Updated alittle bit  
 Any other uploads not from github or our special download pages , will be not trsuted and your responsiblity
 # By reading this Description you agree you are responsiblie for any cyber crime you cause by this tool .
